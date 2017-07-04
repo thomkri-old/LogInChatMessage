@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LogInChatMessage.iml" filepath="$PROJECT_DIR$/LogInChatMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LogInChatMessage_api.iml" filepath="$PROJECT_DIR$/.idea/modules/LogInChatMessage_api.iml" group="LogInChatMessage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LogInChatMessage_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LogInChatMessage_main.iml" group="LogInChatMessage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LogInChatMessage_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LogInChatMessage_test.iml" group="LogInChatMessage" />
+    </modules>
+  </component>
+</project>
