@@ -1,15 +1,65 @@
-[19:43:03] [main/INFO]: Setting user: Player736
-[19:43:15] [main/INFO]: LWJGL Version: 2.9.4
-[19:43:26] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[19:43:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:43:33] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[19:43:33] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:43:33] [Thread-5/INFO]: OpenAL initialized.
-[19:43:34] [Sound Library Loader/INFO]: Sound engine started
-[19:43:44] [main/INFO]: Created: 512x512 textures-atlas
-[19:43:48] [main/INFO]: [STDOUT]: DIRT BLOCK >> tile.dirt
-[19:43:49] [main/INFO]: Narrator library for x64 successfully loaded
-[19:43:50] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[19:49:44] [main/INFO]: Stopping!
-[19:49:44] [main/INFO]: SoundSystem shutting down...
-[19:49:45] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[03:05:08] [Server thread/INFO]: Starting minecraft server version 1.12
+[03:05:19] [Server thread/INFO]: [STDOUT]: Event Handler Initialized
+[03:05:20] [Server thread/INFO]: Loading properties
+[03:05:20] [Server thread/INFO]: Default game type: SURVIVAL
+[03:05:20] [Server thread/INFO]: Generating keypair
+[03:05:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:05:20] [Server thread/INFO]: Using default channel type
+[03:05:23] [Server thread/INFO]: Preparing level "world"
+[03:05:27] [Server thread/INFO]: Loaded 488 advancements
+[03:05:28] [Server thread/INFO]: Preparing start region for level 0
+[03:05:31] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:32] [Server thread/INFO]: Preparing spawn area: 34%
+[03:05:33] [Server thread/INFO]: Preparing spawn area: 61%
+[03:05:34] [Server thread/INFO]: Preparing spawn area: 84%
+[03:05:34] [Server thread/INFO]: Done (11,063s)! For help, type "help" or "?"
+[03:05:47] [User Authenticator #1/INFO]: UUID of player KingBorakosa is 1b5a049e-0f5a-418b-9376-a48ffa6ec008
+[03:05:48] [Server thread/INFO]: KingBorakosa[/127.0.0.1:55466] logged in with entity id 179 at (-44.45686644349706, 71.0, -178.37102975790418)
+[03:05:48] [Server thread/INFO]: KingBorakosa joined the game
+[03:05:48] [Server thread/INFO]: [STDOUT]: before
+[03:05:48] [Server thread/INFO]: [STDOUT]: after
+[03:05:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3831ms behind, skipping 76 tick(s)
+[03:06:50] [Server thread/INFO]: KingBorakosa lost connection: Disconnected
+[03:06:50] [Server thread/INFO]: KingBorakosa left the game
+[03:07:04] [User Authenticator #2/INFO]: UUID of player KingBorakosa is 1b5a049e-0f5a-418b-9376-a48ffa6ec008
+[03:07:05] [Server thread/INFO]: KingBorakosa[/127.0.0.1:55543] logged in with entity id 716 at (-33.28511168962202, 66.0, -161.70918359348795)
+[03:07:05] [Server thread/INFO]: KingBorakosa joined the game
+[03:07:05] [Server thread/INFO]: [STDOUT]: before
+[03:07:05] [Server thread/INFO]: [STDOUT]: after
+[03:07:33] [Server thread/INFO]: KingBorakosa lost connection: Disconnected
+[03:07:33] [Server thread/INFO]: KingBorakosa left the game
+[03:07:49] [Server thread/INFO]: Stopping server
+[03:07:49] [Server thread/INFO]: Saving players
+[03:07:49] [Server thread/INFO]: Saving worlds
+[03:07:49] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[03:07:49] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[03:07:49] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.asm.transformers.TerminalTransformer$ExitVisitor.checkAccess(TerminalTransformer.java:166)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.asm.transformers.TerminalTransformer$ExitVisitor.systemExitCalled(TerminalTransformer.java:132)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at net.minecraft.server.gui.MinecraftServerGui$1.windowClosing(MinecraftServerGui.java:80)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.Window.processWindowEvent(Window.java:2054)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.Window.processEvent(Window.java:2013)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.Component.dispatchEvent(Component.java:4711)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue.access$500(EventQueue.java:97)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue$3.run(EventQueue.java:709)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue$3.run(EventQueue.java:703)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue$4.run(EventQueue.java:731)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue$4.run(EventQueue.java:729)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+[03:07:51] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)

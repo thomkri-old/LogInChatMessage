@@ -1,0 +1,31 @@
+[02:31:45] [Server thread/INFO]: Starting minecraft server version 1.12
+[02:31:55] [Server thread/INFO]: [STDOUT]: Event Handler Initialized
+[02:31:55] [Server thread/INFO]: Loading properties
+[02:31:55] [Server thread/INFO]: Default game type: SURVIVAL
+[02:31:55] [Server thread/INFO]: Generating keypair
+[02:31:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:56] [Server thread/INFO]: Using default channel type
+[02:31:59] [Server thread/INFO]: Preparing level "world"
+[02:32:02] [Server thread/INFO]: Loaded 488 advancements
+[02:32:05] [Server thread/INFO]: Preparing start region for level 0
+[02:32:06] [Server thread/INFO]: Preparing spawn area: 1%
+[02:32:07] [Server thread/INFO]: Preparing spawn area: 4%
+[02:32:08] [Server thread/INFO]: Preparing spawn area: 6%
+[02:32:09] [Server thread/INFO]: Preparing spawn area: 9%
+[02:32:10] [Server thread/INFO]: Preparing spawn area: 12%
+[02:32:11] [Server thread/INFO]: Preparing spawn area: 17%
+[02:32:12] [Server thread/INFO]: Preparing spawn area: 22%
+[02:32:13] [Server thread/INFO]: Preparing spawn area: 27%
+[02:32:14] [Server thread/INFO]: Preparing spawn area: 35%
+[02:32:15] [Server thread/INFO]: Preparing spawn area: 41%
+[02:32:16] [Server thread/INFO]: Preparing spawn area: 48%
+[02:32:17] [Server thread/INFO]: Preparing spawn area: 53%
+[02:32:18] [Server thread/INFO]: Preparing spawn area: 56%
+[02:32:19] [Server thread/INFO]: Preparing spawn area: 59%
+[02:32:20] [Server thread/INFO]: Preparing spawn area: 62%
+[02:32:21] [Server thread/INFO]: Preparing spawn area: 67%
+[02:32:22] [Server thread/INFO]: Preparing spawn area: 71%
+[02:32:23] [Server thread/INFO]: Preparing spawn area: 77%
+[02:32:24] [Server thread/INFO]: Preparing spawn area: 85%
+[02:32:25] [Server thread/INFO]: Preparing spawn area: 92%
+[02:32:26] [Server thread/INFO]: Done (27,638s)! For help, type "help" or "?"
